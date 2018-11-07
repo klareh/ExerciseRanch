@@ -1,5 +1,9 @@
 # 運動牧場 ExerciseRanch
 
+## 展示 DEMO
+<img src="./pic/demo/demo1.gif" width="400"> <img src="./pic/demo/demo2.gif" width="400">
+<img src="./pic/demo/demo3.gif" width="400"> <img src="./pic/demo/demo4.gif" width="400">
+
 ## 作者 Authors
 陳楷雯 、洪曼容(klareh)
 
@@ -26,7 +30,5 @@
 跳出新增頁面
 
 
-## 展示 DEMO
-<img src="./pic/demo/demo1.gif" width="400"> <img src="./pic/demo/demo2.gif" width="400">
-<img src="./pic/demo/demo3.gif" width="400"> <img src="./pic/demo/demo4.gif" width="400">
+
 
