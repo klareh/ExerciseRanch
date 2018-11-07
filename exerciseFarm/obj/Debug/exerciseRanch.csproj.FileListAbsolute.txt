@@ -1,0 +1,12 @@
+C:\Users\KlareH\Desktop\exerciseFarm\exerciseFarm\bin\Debug\exerciseFarm.exe.config
+C:\Users\KlareH\Desktop\exerciseFarm\exerciseFarm\bin\Debug\exerciseFarm.exe
+C:\Users\KlareH\Desktop\exerciseFarm\exerciseFarm\bin\Debug\exerciseFarm.pdb
+C:\Users\KlareH\Desktop\exerciseFarm\exerciseFarm\bin\Debug\flatButton.pdb
+C:\Users\KlareH\Desktop\exerciseFarm\exerciseFarm\bin\Debug\flat_progressBar.pdb
+C:\Users\KlareH\Desktop\exerciseFarm\exerciseFarm\obj\Debug\exerciseRanch.csprojResolveAssemblyReference.cache
+C:\Users\KlareH\Desktop\exerciseFarm\exerciseFarm\obj\Debug\exerciseFarm.DB.resources
+C:\Users\KlareH\Desktop\exerciseFarm\exerciseFarm\obj\Debug\exerciseFarm.Form1.resources
+C:\Users\KlareH\Desktop\exerciseFarm\exerciseFarm\obj\Debug\exerciseFarm.Properties.Resources.resources
+C:\Users\KlareH\Desktop\exerciseFarm\exerciseFarm\obj\Debug\exerciseRanch.csproj.GenerateResource.Cache
+C:\Users\KlareH\Desktop\exerciseFarm\exerciseFarm\obj\Debug\exerciseFarm.exe
+C:\Users\KlareH\Desktop\exerciseFarm\exerciseFarm\obj\Debug\exerciseFarm.pdb
