@@ -1,5 +1,5 @@
 # 運動牧場 Sports Ranch
-這是一個利用紀錄來培養運動習慣的專案，透過圖表以及遊戲，幫助使用者養成運動的習慣。
+運動牧場利用紀錄來培養運動習慣，透過圖表以及遊戲，幫助使用者保持日常運動。
 
 ## 展示 DEMO
 <img src="./pic/demo/demo1.gif" width="400"> <img src="./pic/demo/demo2.gif" width="400">
